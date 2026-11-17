@@ -1,5 +1,5 @@
-project     = "torgu-api-cloudfront"
-github_repo = "tor-gu/torgu-api-cloudfront"
+project               = "torgu-api-cloudfront"
+github_subject_prefix = "repo:torgu-data@357626211/torgu-api-cloudfront@539104630"
 
 envs = {
   dev = {
